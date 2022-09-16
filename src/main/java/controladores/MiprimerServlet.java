@@ -68,7 +68,7 @@ public class MiprimerServlet extends HttpServlet {
             out.println("<BR>");
             out.println("Años :  " + anos);
             out.println("<BR>");
-            out.println("Resultado :  " + B);
+            out.println("Resultado:  $" + B);
            
             
             
